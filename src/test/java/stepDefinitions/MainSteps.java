@@ -61,12 +61,13 @@ public void user_login_into_application_with_and_password(String username, Strin
 @Then("Home Page is displayed")
 public void home_page_is_displayed() {
 	 System.out.println("Home Page is displayed");
+	 System.out.println("Home Page is displayed");
 }
 @And("Cards are displayed")
 public void cards_are_displayed() {
 	 System.out.println("Cards are displayed");
 	 System.out.println("Cards are displayed");
-	 System.out.println("Cards are displayed");
+
 	 
 }
 
