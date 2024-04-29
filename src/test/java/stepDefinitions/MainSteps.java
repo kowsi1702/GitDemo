@@ -65,6 +65,9 @@ public void home_page_is_displayed() {
 @And("Cards are displayed")
 public void cards_are_displayed() {
 	 System.out.println("Cards are displayed");
+	 System.out.println("Cards are displayed");
+	 System.out.println("Cards are displayed");
+	 
 }
 
 }
